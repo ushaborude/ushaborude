@@ -3,4 +3,4 @@ System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");
 		driver.get("https://demoqa.com/browser-window");
 		Dimension element = driver.manage().window().getSize();
 		System.out.println("width="+element.getWidth());
-		System.out.println("heigth="+element.getHeight());
+		//System.out.println("heigth="+element.getHeight());
