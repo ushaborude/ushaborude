@@ -1,0 +1,24 @@
+<button class="_2KpZ6l _2doB4z">✕</button>
+
+driver.findElement(By.cssSelector("img[alt='Grocery']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Mobiles']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Fashion']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Electronics']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Home']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Appliances']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Travel']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Top Offers']")).click();
+
+driver.findElement(By.cssSelector("img[alt='Beauty, Toys &amp; More']")).click();
+
+driver.findElement(By.cssSelector("img[alt='2-Wheelers']")).click();
+
+
+
